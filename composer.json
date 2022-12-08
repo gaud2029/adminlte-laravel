@@ -18,7 +18,7 @@
     "laravel/framework": "^9.0",
     "bezko/filesystem": "dev-master",
     "bezko/helpers": "dev-master",
-    "league/flysystem": "^1.0",
+    "league/flysystem": "^9.0",
     "laravel/ui": "^4.0"
   },
   "require-dev": {
