@@ -16,7 +16,7 @@
     "php": "^8.1",
     "creativeorange/gravatar": "~1.0",
     "laravel/framework": "^9.0",
-    "acacha/filesystem": "^0.1.2",
+    "bezko/filesystem": "dev-master",
     "acacha/helpers": "^0.1.4",
     "league/flysystem": "^1.0",
     "laravel/ui": "^4.0"
@@ -52,6 +52,12 @@
       }
     }
   },
+   "repositories": [
+        {
+            "url": "https://github.com/bezko/filesystem",
+            "type": "git"
+        }
+    ],  
   "config": {
     "sort-packages": true
   }
