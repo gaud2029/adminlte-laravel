@@ -17,7 +17,7 @@
     "creativeorange/gravatar": "~1.0",
     "laravel/framework": "^9.0",
     "bezko/filesystem": "dev-master",
-    "bezko/helpers": "^0.1.4",
+    "bezko/helpers": "dev-master",
     "league/flysystem": "^1.0",
     "laravel/ui": "^4.0"
   },
